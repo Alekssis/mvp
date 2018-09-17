@@ -1,0 +1,29 @@
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.exe.config
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.exe
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.pdb
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csprojResolveAssemblyReference.cache
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.Form1.resources
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.LoginUserControl.resources
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.Properties.Resources.resources
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.SignUserControl.resources
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csproj.GenerateResource.Cache
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csproj.CoreCompileInputs.cache
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.exe
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.pdb
+c:\users\skripnikov\source\repos\WindowsFormsAppMail\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.MailForm.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.exe.config
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.exe
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\bin\Debug\WindowsFormsAppMail.pdb
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csprojResolveAssemblyReference.cache
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.Form1.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.LoginUserControl.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.MailForm.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.Properties.Resources.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.SignUserControl.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csproj.GenerateResource.Cache
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.csproj.CoreCompileInputs.cache
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.exe
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.pdb
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.MessageForm.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.SendMessageControl.resources
+C:\Users\Timka\Desktop\Новая папка (3)\MailAPP2\WindowsFormsAppMail\obj\Debug\WindowsFormsAppMail.WriteMessageControl.resources
