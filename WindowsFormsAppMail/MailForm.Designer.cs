@@ -45,7 +45,6 @@
             this.listBoxMessages.Name = "listBoxMessages";
             this.listBoxMessages.Size = new System.Drawing.Size(206, 56);
             this.listBoxMessages.TabIndex = 0;
-            this.listBoxMessages.SelectedIndexChanged += new System.EventHandler(this.listBoxMessages_SelectedIndexChanged);
             // 
             // AccName
             // 
